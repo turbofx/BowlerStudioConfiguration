@@ -14,6 +14,9 @@
     ]
   },
   "studio-open-web": {},
+  "MenueSettings": {
+    "printCSG": true
+  },
   "studio-open-git": {
     "https://github.com/turbofx/helloWorld_turbofx.git:helloWorld.groovy": [
       "https://github.com/turbofx/helloWorld_turbofx.git",
@@ -29,6 +32,9 @@
     ]
   },
   "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "tutorialBranch": "deploy",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
